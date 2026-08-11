@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eid-not-die.github.io/sitemap.xml
+Sitemap: https://jonathaneid.github.io/sitemap.xml
